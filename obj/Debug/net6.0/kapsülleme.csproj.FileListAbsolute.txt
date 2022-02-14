@@ -1,0 +1,15 @@
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.csproj.AssemblyReference.cache
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.AssemblyInfoInputs.cache
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.AssemblyInfo.cs
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.csproj.CoreCompileInputs.cache
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\kapsülleme.exe
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\kapsülleme.deps.json
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\kapsülleme.runtimeconfig.json
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\kapsülleme.dll
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\ref\kapsülleme.dll
+D:\pratikler\kapsülleme\kapsülleme\bin\Debug\net6.0\kapsülleme.pdb
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.dll
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\ref\kapsülleme.dll
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.pdb
+D:\pratikler\kapsülleme\kapsülleme\obj\Debug\net6.0\kapsülleme.genruntimeconfig.cache
